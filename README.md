@@ -1,6 +1,6 @@
 # ☕ Programação Orientada a Objetos (POO)
 
-Repositório dedicado às resoluções de exercícios práticos da disciplina de **Programação Orientada a Objetos**, do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no **Instituto Federal do Tocantins (IFTO) - Campus Araguaína**.
+Repositório dedicado às resoluções de exercícios práticos da disciplina de **Programação Orientada a Objetos**, ministrada pelo professor **Paulo Ricardo da Silva Pontes**, como parte do currículo do curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS) no **Instituto Federal do Tocantins (IFTO) - Campus Araguaína**.
 
 ## 🎯 Objetivo
 
